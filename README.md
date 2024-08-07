@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Want to know more about me? Feel free to have a look at my own website: https://jelipenguin.github.io/
+
