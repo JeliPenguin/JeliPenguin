@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Want to know more about me? Feel free to have a look at my own website: https://jelipenguin.github.io/
-
+🤔 Want to know more about me? Feel free to have a look at my personal [website](https://jelipenguin.github.io/) (under construction)! 
